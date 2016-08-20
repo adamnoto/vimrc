@@ -51,6 +51,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'Valloric/MatchTagAlways'          " easy HTML close tag
 Plugin 'othree/html5.vim'
 Plugin 'alvan/vim-closetag'
+Plugin 'burnettk/vim-angular'
 
 " javascript related plugin
 Plugin 'pangloss/vim-javascript'
